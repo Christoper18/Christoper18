@@ -24,6 +24,7 @@ Christoper Jul Francisco
 2nd Year College of Information Technology
 
 ## Certifications
+https://courses.cognitiveclass.ai/certificates/a20c4569e3f84048b6a064be8c8abcc4
 
 ## Skillsets
 Basic knowledge about programming/knows to read codes
