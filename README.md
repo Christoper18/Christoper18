@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Profile
+
+## Name
+Christoper Jul Francisco
+
+## Education
+2nd Year College of Information Technology
+
+## Certifications
+
+## Skillsets
+Basic knowledge about programming/knows to read codes
