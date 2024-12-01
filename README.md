@@ -25,6 +25,7 @@ Christoper Jul Francisco
 
 ## Certifications
 https://courses.cognitiveclass.ai/certificates/a20c4569e3f84048b6a064be8c8abcc4
+https://brm-certification.oracle.com/apex/f?p=1111:6:112942772551141::NO:::
 
 ## Skillsets
 Basic knowledge about programming/knows to read codes
