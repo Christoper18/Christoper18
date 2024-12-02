@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # My Profile
-
 ## Name
 Christoper Jul Francisco
 
@@ -28,4 +27,4 @@ https://courses.cognitiveclass.ai/certificates/a20c4569e3f84048b6a064be8c8abcc4
 https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5398976&trackId=OCI2024FNDCFA&key=f35071a939dee05dfc02f2645e2d09d360d6663d
 
 ## Skillsets
-Basic knowledge about programming/knows to read codes
+Basic knowledge about programming
