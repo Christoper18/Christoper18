@@ -27,7 +27,7 @@ Christoper Jul Francisco
 
 [Oracle Certified Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5398976&trackId=OCI2024FNDCFA&key=f35071a939dee05dfc02f2645e2d09d360d6663d)
 
-[Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24049A77ED790A7E4D9121B5B4F4ED9B349C64C902777A556D5AE3B4FEED19CA&fbclid=IwY2xjawG u6dleHRuA2FlbQIxMQABHdKLDVMTZ2gNwKgn_jPtygx-jWpircFv16Ps60QeE_E4lAgZ3vDVXnpvnw_aem_icz7127ONt578XN6cP2I3A)
+https://catalog-education.oracle.com/ords/certview/sharebadge?id=24049A77ED790A7E4D9121B5B4F4ED9B349C64C902777A556D5AE3B4FEED19CA&fbclid=IwY2xjawG u6dleHRuA2FlbQIxMQABHdKLDVMTZ2gNwKgn_jPtygx-jWpircFv16Ps60QeE_E4lAgZ3vDVXnpvnw_aem_icz7127ONt578XN6cP2I3A
 
 ## Skillsets
 Basic knowledge about programming
