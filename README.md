@@ -25,9 +25,9 @@ Christoper Jul Francisco
 ## Certifications
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a20c4569e3f84048b6a064be8c8abcc4)
 
-[Oracle Certified Foundations Associate]
+[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24049A77ED790A7E4D9121B5B4F4ED9B2BB2455FEB5A57FF60EFD139BC1BE22F&fbclid=IwY2xjawG-wzJleHRuA2FlbQIxMQABHdoWwYuChAILSNGieW9KDv1-i57PFwSDe7AyhrTwRIgxL7YllJfYPHu1Lg_aem_re9RTQrt4jaLv4R9d-9iHg)
 
-[Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate]
+[Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24049A77ED790A7E4D9121B5B4F4ED9B349C64C902777A556D5AE3B4FEED19CA&fbclid=IwY2xjawG-wxdleHRuA2FlbQIxMQABHeE8p_kD-PDlaoCMXeBQsJl-lpSi1EOjrBlFfoZU3pEBob7Gd7vcpFN3jA_aem_oYoPubITuQxP45MIvFyGvw)
 
 ## Skillsets
 Basic knowledge about programming
