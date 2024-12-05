@@ -25,7 +25,7 @@ Christoper Jul Francisco
 ## Certifications
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a20c4569e3f84048b6a064be8c8abcc4)
 
-[Oracle Certified Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5398976&trackId=OCI2024FNDCFA&key=f35071a939dee05dfc02f2645e2d09d360d6663d)
+[Oracle Certified Foundations Associate]([https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5398976&trackId=OCI2024FNDCFA&key=f35071a939dee05dfc02f2645e2d09d360d6663d](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24049A77ED790A7E4D9121B5B4F4ED9B2BB2455FEB5A57FF60EFD139BC1BE22F&fbclid=IwY2xjawG-wCZleHRuA2FlbQIxMQABHScA6SSxOHyJn8b4kHJWXX9huXBTNTSiiaqgIkdHv_WftLXmwPFdIUseTA_aem_YmN_EQXcp-AlIg5V4WncXg))
 
 [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24049A77ED790A7E4D9121B5B4F4ED9B349C64C902777A556D5AE3B4FEED19CA&fbclid=IwY2xjawG-vJdleHRuA2FlbQIxMQABHekm7YMRRLT1-s7qJH7EuRDdDuuPMpDErHi2bzUf2Iw_Br-yzdqCkXFe7g_aem__Io6fVwZg8Qfhd2LJzZpTg)
 
